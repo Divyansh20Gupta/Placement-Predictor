@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.pdf
+*.pkl
+*.csv
+backend/.env
+backend/*.pkl
