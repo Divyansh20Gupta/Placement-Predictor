@@ -577,7 +577,7 @@ function App() {
     data.append("is_graduated", formData.is_graduated)
 
     try {
-      const response = await axios.post("http://localhost:8000/predict", data)
+      const response = await axios.post("https://placement-predictor-production-2753.up.railway.app/predict", data)
       setResult(response.data)
     } catch (err) {
       setError("Something went wrong. Please try again.")
