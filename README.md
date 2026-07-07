@@ -256,10 +256,4 @@ Building this project taught me:
 
 ---
 
-## 📄 License
-
-MIT License — feel free to use this project as inspiration for your own portfolio.
-
----
-
 *Built with ❤️ to help freshers navigate placement season with confidence.*
